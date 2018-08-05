@@ -1,0 +1,27 @@
+{
+  "name": "i18n-it",
+  "version": "1.0.0",
+  "description": "i18n-it produces translation for a given string set",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atshakil/i18n-it.git"
+  },
+  "keywords": [
+    "i18n",
+    "i18n-it",
+    "internationalization"
+  ],
+  "author": "Tahmid Shakil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atshakil/i18n-it/issues"
+  },
+  "homepage": "https://github.com/atshakil/i18n-it#readme",
+  "bin": "./bin/i18n-it.js",
+  "dependencies": {
+    "google-translate-api": "^2.3.0"
+  }
+}
