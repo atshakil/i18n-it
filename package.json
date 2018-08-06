@@ -1,6 +1,6 @@
 {
   "name": "i18n-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "i18n-it produces translation for a given string set",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
